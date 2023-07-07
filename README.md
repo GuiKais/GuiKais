@@ -1,4 +1,5 @@
-## Bem-vindo(a) ao perfil de Guilherme Kais 😁
+## Perfil de Guilherme Kais
+## Seja muito bem vindo ao meu perfil!!!
 
  <div>
    <a href="https://github.com/GuiKais">
